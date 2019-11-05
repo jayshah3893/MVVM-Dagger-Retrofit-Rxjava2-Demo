@@ -1,14 +1,14 @@
-package com.nb.retrofitx.extensions
+package com.nb.daggermvvmdemo.extensions
 
 import android.Manifest
 import android.content.Context
 import android.net.ConnectivityManager
 import androidx.annotation.RequiresPermission
-import com.nb.retrofitx.App.Companion.apiInterface
-import com.nb.retrofitx.App.Companion.getAppInstance
-import com.nb.retrofitx.R
-import com.nb.retrofitx.network.ApiInterface
-import com.nb.retrofitx.network.RetrofitClientFactory
+import com.nb.daggermvvmdemo.App.Companion.apiInterface
+import com.nb.daggermvvmdemo.App.Companion.getAppInstance
+import com.nb.daggermvvmdemo.R
+import com.nb.daggermvvmdemo.network.ApiInterface
+import com.nb.daggermvvmdemo.network.RetrofitClientFactory
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

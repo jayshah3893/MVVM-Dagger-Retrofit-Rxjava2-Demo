@@ -1,12 +1,12 @@
-package com.nb.retrofitx.extensions
+package com.nb.daggermvvmdemo.extensions
 
 import android.app.Activity
 import android.util.Log
 import android.widget.Toast
 import androidx.annotation.StringRes
 import androidx.fragment.app.Fragment
-import com.nb.retrofitx.App.Companion.getAppInstance
-import com.nb.retrofitx.R
+import com.nb.daggermvvmdemo.App.Companion.getAppInstance
+import com.nb.daggermvvmdemo.R
 
 fun Activity.toast(msg: String) = Toast.makeText(this, msg, Toast.LENGTH_SHORT).show()
 fun Fragment.toast(msg: String) {

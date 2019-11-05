@@ -1,9 +1,7 @@
-package com.nb.retrofitx.network
+package com.nb.daggermvvmdemo.network
 
-import com.nb.retrofitx.models.Country
-import com.nb.retrofitx.models.UserResponse
+import com.nb.daggermvvmdemo.models.Country
 import io.reactivex.Single
-import retrofit2.Call
 import retrofit2.http.GET
 
 interface ApiInterface {

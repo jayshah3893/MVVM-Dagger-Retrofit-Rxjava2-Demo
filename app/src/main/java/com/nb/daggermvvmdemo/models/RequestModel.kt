@@ -1,4 +1,4 @@
-package com.nb.retrofitx.models
+package com.nb.daggermvvmdemo.models
 
 class RequestModel {
     var id: Int? = null

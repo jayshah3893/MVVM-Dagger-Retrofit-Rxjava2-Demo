@@ -1,9 +1,9 @@
-package com.nb.retrofitx.viewmodel
+package com.nb.daggermvvmdemo.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.nb.retrofitx.extensions.getApis
-import com.nb.retrofitx.models.Country
+import com.nb.daggermvvmdemo.extensions.getApis
+import com.nb.daggermvvmdemo.models.Country
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.observers.DisposableSingleObserver

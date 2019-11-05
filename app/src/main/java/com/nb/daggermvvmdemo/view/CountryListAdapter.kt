@@ -1,11 +1,11 @@
-package com.nb.retrofitx.view
+package com.nb.daggermvvmdemo.view
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.nb.retrofitx.R
-import com.nb.retrofitx.models.Country
+import com.nb.daggermvvmdemo.R
+import com.nb.daggermvvmdemo.models.Country
 import kotlinx.android.synthetic.main.item_country.view.*
 
 class CountryListAdapter(var countries: ArrayList<Country>) : RecyclerView.Adapter<CountryListAdapter.CountryViewHolder>() {

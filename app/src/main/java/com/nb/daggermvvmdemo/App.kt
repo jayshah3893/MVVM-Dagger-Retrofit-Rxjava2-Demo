@@ -1,8 +1,8 @@
-package com.nb.retrofitx
+package com.nb.daggermvvmdemo
 
 import android.app.Application
 import android.os.StrictMode
-import com.nb.retrofitx.network.ApiInterface
+import com.nb.daggermvvmdemo.network.ApiInterface
 
 class App : Application() {
 

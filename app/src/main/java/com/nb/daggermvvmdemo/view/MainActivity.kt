@@ -1,4 +1,4 @@
-package com.nb.retrofitx.view
+package com.nb.daggermvvmdemo.view
 
 import android.os.Bundle
 import android.view.View
@@ -6,8 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.nb.retrofitx.R
-import com.nb.retrofitx.viewmodel.ListViewModel
+import com.nb.daggermvvmdemo.R
+import com.nb.daggermvvmdemo.viewmodel.ListViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
