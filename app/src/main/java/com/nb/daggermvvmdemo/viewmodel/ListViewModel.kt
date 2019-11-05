@@ -2,8 +2,8 @@ package com.nb.daggermvvmdemo.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.nb.daggermvvmdemo.extensions.getApis
 import com.nb.daggermvvmdemo.models.Country
+import com.nb.daggermvvmdemo.network.CountriService
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.observers.DisposableSingleObserver
@@ -15,6 +15,7 @@ class ListViewModel : ViewModel(){
     val countries = MutableLiveData<ArrayList<Country>>()
     val loading = MutableLiveData<Boolean>()
 
+    val countriService = CountriService()
     val disposable = CompositeDisposable()
 
     fun refresh(){
@@ -24,7 +25,7 @@ class ListViewModel : ViewModel(){
     fun fetchCountries(){
         loading.value = true
         disposable.add(
-            getApis()
+            countriService
                 .getCountries()
                 .subscribeOn(AndroidSchedulers.mainThread())
                 .subscribeWith(object :DisposableSingleObserver<ArrayList<Country>>(){

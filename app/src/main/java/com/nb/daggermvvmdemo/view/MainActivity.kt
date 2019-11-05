@@ -12,7 +12,6 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-
     lateinit var viewModel: ListViewModel
     var countryListAdapter = CountryListAdapter(arrayListOf())
 

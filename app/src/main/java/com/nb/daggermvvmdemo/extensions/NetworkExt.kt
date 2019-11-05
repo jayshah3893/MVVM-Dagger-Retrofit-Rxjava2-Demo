@@ -4,37 +4,30 @@ import android.Manifest
 import android.content.Context
 import android.net.ConnectivityManager
 import androidx.annotation.RequiresPermission
-import com.nb.daggermvvmdemo.App.Companion.apiInterface
 import com.nb.daggermvvmdemo.App.Companion.getAppInstance
-import com.nb.daggermvvmdemo.R
-import com.nb.daggermvvmdemo.network.ApiInterface
-import com.nb.daggermvvmdemo.network.RetrofitClientFactory
-import retrofit2.Call
-import retrofit2.Callback
-import retrofit2.Response
 
-fun getApis(): ApiInterface = apiInterface ?: RetrofitClientFactory().getRestApis()
+//fun getApis(): ApiInterface = apiInterface ?: CountrisService().getRestApis()
 
-fun <T> getResponse(call: Call<T>, onApiSuccess: (T) -> Unit = {}, onApiError: (message: String) -> Unit = {}, onNetworkError: () -> Unit = {}) {
-    call.enqueue(object : Callback<T> {
-        override fun onResponse(call: Call<T>, response: Response<T>) {
-            if (response.isSuccessful) response.body()?.let {
-                onApiSuccess(response.body()!!)
-            }
-            else {
-                onApiError(getCodeStatus(response.code()))
-            }
-        }
-
-        override fun onFailure(call: Call<T>, t: Throwable) {
-            if (!isNetworkAvailable()) {
-                onNetworkError()
-            } else {
-                onApiError(getAppInstance().getString(R.string.error_something_went_wrong))
-            }
-        }
-    })
-}
+//fun <T> getResponse(call: Call<T>, onApiSuccess: (T) -> Unit = {}, onApiError: (message: String) -> Unit = {}, onNetworkError: () -> Unit = {}) {
+//    call.enqueue(object : Callback<T> {
+//        override fun onResponse(call: Call<T>, response: Response<T>) {
+//            if (response.isSuccessful) response.body()?.let {
+//                onApiSuccess(response.body()!!)
+//            }
+//            else {
+//                onApiError(getCodeStatus(response.code()))
+//            }
+//        }
+//
+//        override fun onFailure(call: Call<T>, t: Throwable) {
+//            if (!isNetworkAvailable()) {
+//                onNetworkError()
+//            } else {
+//                onApiError(getAppInstance().getString(R.string.error_something_went_wrong))
+//            }
+//        }
+//    })
+//}
 
 @RequiresPermission(Manifest.permission.ACCESS_NETWORK_STATE)
 fun isNetworkAvailable(): Boolean {
