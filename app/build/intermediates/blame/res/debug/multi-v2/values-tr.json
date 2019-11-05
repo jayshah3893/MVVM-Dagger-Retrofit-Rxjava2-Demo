@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Admin\\StudioProjects\\github\\retrofitx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\Admin\\StudioProjects\\github\\Dagger-MVVM-Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\53c8c26362199a88eb9720a0a1f8344c\\appcompat-1.0.0\\res\\values-tr\\values-tr.xml",

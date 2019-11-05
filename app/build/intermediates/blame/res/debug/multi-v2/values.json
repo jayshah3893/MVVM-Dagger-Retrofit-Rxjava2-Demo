@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Admin\\StudioProjects\\github\\retrofitx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Admin\\StudioProjects\\github\\Dagger-MVVM-Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\StudioProjects\\github\\retrofitx\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Admin\\StudioProjects\\github\\Dagger-MVVM-Demo\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -20,6 +20,23 @@
                         "endLines": "510",
                         "endColumns": "12",
                         "endOffsets": "33591"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\StudioProjects\\github\\Dagger-MVVM-Demo\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "67,68,69",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4209,4255,4302",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "4250,4297,4348"
                     }
                 },
                 {
@@ -77,6 +94,23 @@
                         "endLines": "111,112,211,212,213,214,215,216,217,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,390,391,403,404,405,406,407,408,409,410,411,412,416,438,495,2187,2191,2192,2196,2197,2559,2560,3627,3824,3856,3894,3901",
                         "endColumns": "68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,56,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "7085,7148,13911,13979,14051,14121,14182,14256,14329,21214,21275,21337,21401,21463,21524,21592,21692,21752,21818,21891,21960,22017,22069,22131,22656,22732,22797,22856,22915,22975,23035,23095,23155,23215,23275,23335,23395,23455,23515,23574,23634,23694,23754,23814,23874,23934,23994,24054,24114,24174,24233,24293,24353,24412,24471,24530,24589,24648,24707,25087,25122,25717,25780,25835,25893,25950,26000,26061,26118,26152,26187,26365,27646,32553,145587,145788,145898,146099,146228,170506,170573,231781,244057,246122,248084,248461"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\StudioProjects\\github\\Dagger-MVVM-Demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,142,65",
+                        "endColumns": "46,79,75",
+                        "endOffsets": "59,217,136"
+                    },
+                    "to": {
+                        "startLines": "478,483,484",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "30409,30928,31008",
+                        "endColumns": "46,79,75",
+                        "endOffsets": "30451,31003,31079"
                     }
                 },
                 {
@@ -151,40 +185,6 @@
                         "endLines": "264,265,266,274,275,276,389,4186",
                         "endColumns": "58,47,55,74,75,71,65,24",
                         "endOffsets": "17365,17413,17469,18155,18231,18303,25052,264703"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Admin\\StudioProjects\\github\\retrofitx\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,3,2",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "17,142,65",
-                        "endColumns": "46,79,75",
-                        "endOffsets": "59,217,136"
-                    },
-                    "to": {
-                        "startLines": "478,483,484",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "30409,30928,31008",
-                        "endColumns": "46,79,75",
-                        "endOffsets": "30451,31003,31079"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Admin\\StudioProjects\\github\\retrofitx\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "67,68,69",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4209,4255,4302",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "4250,4297,4348"
                     }
                 }
             ]

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3a684919b3679e9d486fb39dba120085\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.2.0-beta01] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\02e670539f2d6846964719948bea6b8e\jetified-core-ktx-1.2.0-beta01\AndroidManifest.xml:2:1-9:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\57368978b4cb9eb7d184a3034173f760\jetified-rxandroid-2.0.1\AndroidManifest.xml:15:1-21:12
@@ -41,33 +41,33 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b1af4c35ae4365857433aad3bb0fd679\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a20bc41c385b4831c58cacb48802aa1a\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\585b3d127c685e956d6f231b4cb9a800\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:8:5-24:19
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:8:5-24:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3a684919b3679e9d486fb39dba120085\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3a684919b3679e9d486fb39dba120085\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\007b7c793b3d27841a9e7e10f084260f\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
@@ -81,39 +81,39 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ad
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0-beta01] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\0cf56d99ec810e0dfe67bcbce10f3195\core-1.2.0-beta01\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:9:9-28
-activity#com.nb.retrofitx.view.MainActivity
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:17:9-23:20
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:9:9-49
+activity#com.nb.daggermvvmdemo.view.MainActivity
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:17:19-52
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:17:19-73
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3a684919b3679e9d486fb39dba120085\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\3a684919b3679e9d486fb39dba120085\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.2.0-beta01] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\02e670539f2d6846964719948bea6b8e\jetified-core-ktx-1.2.0-beta01\AndroidManifest.xml:5:5-7:41
@@ -188,16 +188,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\a20bc41c385b4831c58cacb48802aa1a\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\585b3d127c685e956d6f231b4cb9a800\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\585b3d127c685e956d6f231b4cb9a800\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Admin\StudioProjects\github\retrofitx\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\StudioProjects\github\Dagger-MVVM-Demo\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\f4304395c2a9df1ddad32bb076dfb812\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
